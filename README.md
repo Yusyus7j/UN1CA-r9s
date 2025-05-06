@@ -23,7 +23,7 @@ Its build system allows to automatically download/extract the firmware, apply th
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
-# Changelog (s5e8825)
+# Changelog (r9s)
 [Click Here](https://github.com/adi1087/UN1CA-r9s/blob/fourteen-essi/changelog.md)
 
 # Devices (exynos2100)
