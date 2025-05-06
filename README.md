@@ -24,13 +24,13 @@ Its build system allows to automatically download/extract the firmware, apply th
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
 # Changelog (s5e8825)
-[Click Here](https://github.com/Ksawlii-Android-Repos/UN1CA-s5e8825/blob/fourteen-essi/changelog.md)
+[Click Here](https://github.com/adi1087/UN1CA-r9s/blob/fourteen-essi/changelog.md)
 
 # Devices (exynos2100)
 - Galaxy S21 FE (r9s): Supported, Maintained (G990E)
 
 # Supported firmware (r9s)
-[Click Here](https://github.com/Ksawlii-Android-Repos/UN1CA-s5e8825/blob/fourteen-essi/firmwares.md)
+[Click Here](https://github.com/adi1087/UN1CA-r9s/blob/fourteen-essi/firmwares.md)
 
 # Features
 - Based on the latest stable Galaxy S23/S23 FE firmware
